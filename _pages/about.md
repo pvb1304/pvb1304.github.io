@@ -146,7 +146,7 @@ Similar Data in Cloud Media Sharing”,  <B><I>IEEE Transactions on Information 
 <li id="paperdistance"> Bo Fang, <B>Zhongyun Hua</B>, Hejiao Huang, "Locality-Sensitive Hashing Scheme Based on Heap Sort of Hash Bucket," in 2019 14th International Conference on Computer Science & Education (ICCSE), 5-10, Toronto, Canada, 2019.08.19-2019.08-21.
 		<a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/pdf/Locality-Sensitive Hashing Scheme Based on Heap Sort of Hash Bucket.pdf" target="_blank">[pdf]</a>
 <a href="https://github.com/HuaZhongyun/HuaZhongyun.github.io/raw/main/BibTex/Locality-Sensitive Hashing Scheme Based on Heap Sort of Hash Bucket.txt" target="_blank">[BibTeX]</a></li>
-<li id="paperdistance">  佟岩, 花忠云*, 廖清, 张玉书, “基于秘密共享的安全命名实体识别推理方法“,  <B><I>网络与信息安全学报</I></B>, accepted, 2024.</li>
+<li id="paperdistance">  佟岩, 花忠云*, 廖清, 张玉书, “基于秘密共享的安全命名实体识别推理方法“,  <B><I>信息安全学报</I></B>, accepted, 2024.</li>
 <li id="paperdistance">  Yifeng Zheng, Menglun Zhou, Songlei Wang, <B>Zhongyun Hua*</B>, Jinghua Jiang, and Yansong Gao, “Privacy-Preserving Competitive Detour Tasking in Spatial Crowdsourcing”,  <B><I>IEEE Transactions on Services Computing</I></B>, accepted, 2024.</li>
 
 <li id="paperdistance">  Mingyang Song, <B>Zhongyun Hua*</B>, Yifeng Zheng, Tao Xiang, and Xiaohua Jia, “Enabling Transparent Deduplication and Auditing for Encrypted Data in Cloud”,  <B><I>IEEE Transactions on Dependable and Secure Computing</I></B>, 2023</li>
@@ -235,7 +235,7 @@ Similar Data in Cloud Media Sharing”,  <B><I>IEEE Transactions on Information 
 
   
  <li id="paperdistance">Enji Liang, Kuiyuan Zhang, <B>Zhongyun Hua*</B>, and Xiaohua Jia, "Multi-Scale Feature Attention Fusion for Image Splicing Forgery Detection", <B><I>ACM Transactions on Multimedia Computing, Communications, and Applicationsy</I></B>, in press, 2024. </li>
- <li id="paperdistance">  段秋宇, 候琳珊, 花忠云*, 廖清, 张玉书, 张瑜, “基于模型操作的单参数后门攻击”,  <B><I>网络与信息安全学报</I></B>, accepted, 2024.</li>
+ <li id="paperdistance">  段秋宇, 候琳珊, 花忠云*, 廖清, 张玉书, 张瑜, “基于模型操作的单参数后门攻击”,  <B><I>信息安全学报</I></B>, accepted, 2024.</li>
  <li id="paperdistance">Kuiyuan Zhang, Zeming Hou, <B>Zhongyun Hua*</B>, Yifeng Zheng, and Leo Yu Zhang, "Boosting Deepfake Detection Generalizability via
 Expansive Learning and Confidence Judgement", <B><I>IEEE Transactions on Circuits and Systems for Video Technology</I></B>, in press, 2024. </li>
 <li id="paperdistance">Tao Wang, Yushu Zhang*, Zixuan Yang, Xiangli Xiao, Hua Zhang, <B>Zhongyun Hua</B>, "MSeeing is not believing: An identity hider for human vision privacy protection", <B><I>IEEE Transactions on Biometrics, Behavior, and Identity Science</I></B>, in press, 2024. </li>
