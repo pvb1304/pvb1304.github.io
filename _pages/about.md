@@ -336,7 +336,7 @@ Expansive Learning and Confidence Judgement", <B><I>IEEE Transactions on Circuit
 
 <h4 id="Nonlinear Systems and Applications:">Nonlinear Systems and Applications:</h4>
 
-li id="paperdistance"> Yinxing Zhang, Yukai Liu, Han Bao, Hao Chen, Tao Shen*, and <B>Zhongyun Hua</B>, , "Two-Dimensional Multi-Valued Chaotic Map with a Zynq-Based Parallel PRNG Design", <B><I> IEEE Transactions on Industrial Electronics </I></B>, in press, 2025. </li>
+<li id="paperdistance"> Yinxing Zhang, Yukai Liu, Han Bao, Hao Chen, Tao Shen*, and <B>Zhongyun Hua</B>, , "Two-Dimensional Multi-Valued Chaotic Map with a Zynq-Based Parallel PRNG Design", <B><I> IEEE Transactions on Industrial Electronics </I></B>, in press, 2025. </li>
 
 <li id="paperdistance"> Yinxing Zhang, <B>Zhongyun Hua*</B>, Han Bao, Member, and Hejiao Huang, "1D Complex-Variable Chaotic Model With Hardware Implementation", <B><I> IEEE Transactions on Industrial Informatics </I></B>, in press, 2025. </li>
 
