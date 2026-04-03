@@ -109,7 +109,7 @@ My research interests include:
 
 <h4 id="Applied Cryptography:">Applied Cryptography:</h4>
 
-<li id="paperdistance"> Songlei Wang, Yifeng Zheng, <B>Zhongyun Hua</B>, Xiaohua Jia, and Haibo Hu, "FastPSC: A Fast and Maliciously Secure Set Computation Service for Multi-Owner Set Data", <B><I>IEEE Transactions on Services Computing</I></B>, accepted, 2026. </li>
+<li id="paperdistance"> Songlei Wang, Yifeng Zheng*, <B>Zhongyun Hua</B>, Xiaohua Jia, and Haibo Hu, "FastPSC: A Fast and Maliciously Secure Set Computation Service for Multi-Owner Set Data", <B><I>IEEE Transactions on Services Computing</I></B>, accepted, 2026. </li>
 
 <li id="paperdistance"> Xinrui Liu, <B>Zhongyun Hua*</B>, Mingyang Song, Yifeng Zheng, Guoai Xu, and Xiaohua Jia, "PVF-FD: Free-Rider Detection in Privacy-Preserving Vertical Federated Learning ", <B><I>IEEE Transactions on Dependable and Secure Computing</I></B>, accepted, 2025. </li>
 
