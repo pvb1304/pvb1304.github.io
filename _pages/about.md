@@ -35,6 +35,7 @@ My research interests include:
 
 <h1 id="-news">🔥 News</h1>
 <ul>
+<li><em>2026.3</em>:  🎉🎉 A paper is accepted by IEEE TSC </li>
 <li><em>2026.1</em>:  🎉🎉 A paper is accepted by IEEE TDSC; A paper is accepted by IEEE TIE </li>
 <li><em>2026.1</em>:  🎉🎉 A paper is accepted by IEEE TIP; A paper is accepted by IEEE TDSC; A paper is accepted by ICLR 2026 </li>
 <li><em>2025.12</em>:  🎉🎉 Two paper are accepted by IEEE TDSC </li>
@@ -108,8 +109,9 @@ My research interests include:
 
 <h4 id="Applied Cryptography:">Applied Cryptography:</h4>
 
+<li id="paperdistance"> Songlei Wang, Yifeng Zheng, <B>Zhongyun Hua</B>, Xiaohua Jia, and Haibo Hu, "FastPSC: A Fast and Maliciously Secure Set Computation Service for Multi-Owner Set Data", <B><I>IEEE Transactions on Services Computing</I></B>, accepted, 2026. </li>
 
-<li id="paperdistance"> Xinrui Liu, <B>Zhongyun Hua*</B>, Mingyang Song, Yifeng Zheng, Guoai Xu, and Xiaohua Jia,, "PVF-FD: Free-Rider Detection in Privacy-Preserving Vertical Federated Learning ", <B><I>IEEE Transactions on Dependable and Secure Computing</I></B>, accepted, 2025. </li>
+<li id="paperdistance"> Xinrui Liu, <B>Zhongyun Hua*</B>, Mingyang Song, Yifeng Zheng, Guoai Xu, and Xiaohua Jia, "PVF-FD: Free-Rider Detection in Privacy-Preserving Vertical Federated Learning ", <B><I>IEEE Transactions on Dependable and Secure Computing</I></B>, accepted, 2025. </li>
 
 <li id="paperdistance"> Jianhui Zou, Weijia Cao, Nankun Mu*,Shuang Yi, Yifeng Zheng, Zhaoquan Gu, and <B>Zhongyun Hua</B>, "Reversible Data Hiding over Encrypted Images via Intrinsic Correlation in Block-Based Secret Sharing", <B><I>ACM Transactions on Multimedia Computing, Communications, and Applications</I></B>, accepted, 2025. </li>
 
