@@ -20,14 +20,14 @@ redirect_from:
 
 I am currently a professor with the School of Computer Science and Technology at Harbin Institute of Technology, Shenzhen. My research interests include Applied Cryptography, Multimedia Security, Trustworthy AI, and Nonlinear Systems and Applications. If you have any interest in exploring potential academic collaborations or if you have inquiries related to my research, please feel free to contact me via email at <B>huazhongyunAThit.edu.cn</B> or <B>huazyumATgmail.com</B>. 
 
-I received the B.S. degree in software engineering from Chongqing University, Chongqing, China, in 2011, and the M.S. and Ph.D. degrees in software engineering from the University of Macau, Macau, China, in 2013 and 2016, respectively. My works have appeared in prestigious venues such as <font color="blue"><B>ACM CCS</B></font>, <font color="blue"><B>Usenix Security</B></font>, ICML, CVPR, AAAI, ACM MM, IEEE TIFS, IEEE TDSC, IEEE TC, IEEE TPDS, IEEE TIP, and IEEE TSP. I have been recognized as a <font color="blue"><B>'Highly Cited Researcher' in 2022, 2023, and 2024</B></font>. I have published more than 130 papers. I am an associate editor of  IEEE Transactions on Dependable and Secure Computing, IEEE Signal Processing Letters, and International Journal of Bifurcation and Chaos. <a href='https://scholar.google.com/citations?user=Sl0BI_IAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url_citations | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a><a href='https://scholar.google.com/citations?user=Sl0BI_IAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url_hindex | url_encode }}&logo=Google%20Scholar&labelColor=0000ff&color=ffa500&style=plastic&label=h-index"></a>。
+I received the B.S. degree in software engineering from Chongqing University, Chongqing, China, in 2011, and the M.S. and Ph.D. degrees in software engineering from the University of Macau, Macau, China, in 2013 and 2016, respectively. My works have appeared in prestigious venues such as <font color="blue"><B>ACM CCS</B></font>, <font color="blue"><B>Usenix Security</B></font>, ICML, CVPR, AAAI, ACM MM, IEEE TIFS, IEEE TDSC, IEEE TC, IEEE TPDS, IEEE TIP, and IEEE TSP. I have been recognized as a <font color="blue"><B>'Highly Cited Researcher' in 2022, 2023, and 2024</B></font>. I have published more than 130 papers. I am an associate editor of  IEEE Transactions on Dependable and Secure Computing, IEEE Signal Processing Letters, and International Journal of Bifurcation and Chaos. <a href='https://scholar.google.com/citations?user=FKKC66MAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url_citations | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a><a href='https://scholar.google.com/citations?user=FKKC66MAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url_hindex | url_encode }}&logo=Google%20Scholar&labelColor=0000ff&color=ffa500&style=plastic&label=h-index"></a>。
 
 
 My research interests include:
-- Applied Cryptography：Information security, data privacy, privacy-preserving machine learning, secure cloud computing, etc
 - Multimedia Security
-- Trustworthy AI
-- Nonlinear Systems and Applications
+- Multimedia Forensics
+- AI Security
+- Medical Informatics
   
 
  
