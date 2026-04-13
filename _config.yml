@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhongyun Hua"
+title                    : "Parkala Vishnu Bharadwaj Bayari"
 description              : ""
 repository               : "HuaZhongyun/HuaZhongyun.github.io"
 google_scholar_stats_use_cdn : True
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhongyun Hua"
+  name             : "Parkala Vishnu Bharadwaj Bayari"
   avatar           : "images/Authors.png" #"images/android-chrome-512x512.png"
-  bio              : "Harbin Institute of Technology, Shenzhen"
-  location         : "Shenzhen Guangdong"
+  bio              : "Indian Institute of Technology, Jodhpur"
+  location         : "Jodhpur, India"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=Sl0BI_IAAAAJ"
-  email            : "huazyum@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=FKKC66MAAAAJ&hl=en"
+  email            : "pvishnu1304@gmail.com"
   researchgate     : #"https://www.researchgate.net/profile/Jian-Tang-53"
   uri              : 
   bitbucket        :
@@ -37,15 +37,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "HuaZhongyun"#"tangjyan"
+  github           : "pvb1304"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : #"https://orcid.org/0000-0001-9658-209X"
+  dblp             : "https://dblp1.uni-trier.de/pid/324/8508.html"
+  orcid            : "https://orcid.org/0000-0002-6298-643X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
