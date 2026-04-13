@@ -84,9 +84,8 @@ Research Interests:
 
 <h1 id="-Educations">🎓 Educations</h1>
 <ul>
-  <li><em>2013.09 - 2016.06</em>, <a href="https://um.edu.mo/"><img class="svg" src="/images/MU_logo.png" width="23pt" /></a> Ph.D., Department of Computer and Information Science, University of Macau</li>
-  <li><em>2011.09 - 2013.06</em>, <a href="https://um.edu.mo/"><img class="svg" src="/images/MU_logo.png" width="23pt" /></a> M.S., Department of Computer and Information Science, University of Macau</li>
-  <li><em>2007.09 - 2011.06</em>, <a href="https://www.cqu.edu.cn/"><img class="svg" src="/images/CQU_logo.png" width="23pt" /></a> B.S., Department of Software Engineering, Chongqing University</li>
+  <li><em>2019.07 - Present</em>, <a href="https://um.edu.mo/"><img class="svg" src="/images/MU_logo.png" width="23pt" /></a> M.Tech. - Ph.D in Data and Computational Sciences, Indian Institute of Technology Jodhpur</li>
+  <li><em>2007.09 - 2011.06</em>, <a href="https://www.cqu.edu.cn/"><img class="svg" src="/images/CQU_logo.png" width="23pt" /></a> B.Tech in Computer Engineering, Indian Institute of Information Technology, Design and Manufacturing, Kancheepuram</li>
 </ul>
 
 
