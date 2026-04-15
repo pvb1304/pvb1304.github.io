@@ -33,35 +33,12 @@ Research Interests:
 
 <h1 id="-news">🔥 News</h1>
 <ul>
-<li><em>2026.3</em>:  🎉🎉 A paper is accepted by IEEE TSC </li>
-<li><em>2026.2</em>:  🎉🎉 A paper is accepted by IEEE TDSC; A paper is accepted by IEEE TIE </li>
-<li><em>2026.1</em>:  🎉🎉 A paper is accepted by IEEE TIP; A paper is accepted by IEEE TDSC; A paper is accepted by ICLR 2026 </li>
-<li><em>2025.12</em>:  🎉🎉 Two paper are accepted by IEEE TDSC </li>
-<li><em>2025.11</em>:  🎉🎉 A paper is accepted by IEEE TII; A paper is accepted by AAAI 2026; I am recognized as a 'Highly Cited Researcher 2025' </li>
-<li><em>2025.10</em>:  🎉🎉 A paper is accepted by ACM TOMM; Our paper is awarded the ACM CCS 2025 Distinguished Paper Award </li>
-<li><em>2025.09</em>:  🎉🎉 A paper is accepted by IEEE TDSC </li>
-<li><em>2025.08</em>:  🎉🎉 A paper is accepted by ACM CCS; A paper is acceptd by IEEE TMC </li>
-<li><em>2025.07</em>:  🎉🎉 A paper is accepted by IEEE TDSC </li>
- <li><em>2025.06</em>:  🎉🎉 A paper is accepted by IEEE TIFS </li>
- <li><em>2025.05</em>:  🎉🎉 A paper is accepted by IEEE TC </li>
- <li><em>2025.04</em>:  🎉🎉 A paper is accepted by IEEE TDSC </li>
-  <li><em>2025.03</em>:  🎉🎉 A paper is accepted by IEEE TSC; I am invited to serve as an Associate Editor of IEEE Transactions on Dependable and Secure Computing (TDSC) </li>
-  <li><em>2025.02</em>:  🎉🎉 A paper is accepted by IEEE TIFS; A paper is accepted by IEEE TDSC; A paper is accepted by IEEE TMM </li>
-  <li><em>2025.01</em>:  🎉🎉 A paper is accepted by IEEE TIP; Two papers are accpeted by USENIX Security 2025 </li>
-  <li><em>2024.12</em>:  🎉🎉 Two papers are accpeted by AAAI 2025; A paper is accepted by IEEEE TIFS </li>
-  <li><em>2024.11</em>:  🎉🎉 I am recognized as a 'Highly Cited Researcher 2024'; A paper is accted by IEEE TSC </li>
-  <li><em>2024.10</em>:  🎉🎉 A paper is nominated for the Best Paper Award at ACM MM 2024 </li>
-  <li><em>2024.09</em>:  🎉🎉 A paper is accpeted by IEEE TCAS-I; A paper is accpeted by IEEE TCSVT; A paper is accpeted by ACM TOMM </li>
-  <li><em>2024.08</em>:  🎉🎉 A paper is accpeted by ACM CCS;  A paper is accpeted by IEEE TSC;  Two papers are accpeted by IEEE TIE； A paper is accepted by IEEE TBIOM </li>
-  <li><em>2024.07</em>:  🎉🎉 A paper is accpeted by IEEE TCAS-I; A paper is accpeted by IEEE TII; A paper is accpeted by IEEE TII；Two papers are accpeted by ACM MM</li>
-  <li><em>2024.06</em>:  🎉🎉 A paper is accpeted by IEEE TCSVT; A paper is accpeted by ACM TOMM </li>
-  <li><em>2024.05</em>:  🎉🎉 A paper is accpeted by ICML 2024; A paper is accpeted by IEEE TIFS </li>
-  <li><em>2024.03</em>:  🎉🎉 A paper is accpeted by IEEE TCAS-I; A paper is accpeted by IEEE TCSS; Apaper is accepted bgy IEEE TIFS </li>
-  <li><em>2024.02</em>:  🎉🎉 A paper is accpeted by CSF; A paper is accpeted by CVPR 2024 </li>
-  <li><em>2024.01</em>:  🎉🎉 A paper is accpeted by IEEE TIFS </li>
-  <li><em>2023.12</em>:  🎉🎉 A paper is accpeted by AAAI 2024; A paper is accepted by ACM TOMM; A paper is accepted by IEEE TSC </li>
-  <li><em>2023.11</em>:  🎉🎉 I am recognized as a 'Highly Cited Researcher 2023'</li>
-  <li><em>2023.11</em>:  🎉🎉 A paper is accepted by IEEE TC; A paper is accepted by IEEE TSC; A paper is accepted by IEEE TDSC</li>
+<li><em>2024.10</em>:  🎉🎉 Received ACM India Travel Grant (INR 6000) for ACM ARCS 2026, IIT Hyderabad</li>	
+<li><em>2024.10</em>:  🎉🎉 A paper is accepted by Computers and Electrical Engineering</li>
+<li><em>2025.05</em>:  🎉🎉 A paper is accepted by IEEE Transactions on Computational Social Systems </li>
+<li><em>2025.04</em>:  🎉🎉 A paper is accepted by IEEE Journal of Biomedical and Health Informatics </li>
+<li><em>2024.10</em>:  🎉🎉 A paper is accepted by IEEE Journal of Biomedical and Health Informatics </li>
+<li><em>2022.03</em>:  🎉🎉 A paper is accepted by IEEE Multimedia </li>
 </ul>
 
 <span class='anchor' id='-ase'></span>
