@@ -33,6 +33,7 @@ Research Interests:
 
 <h1 id="-news"> News</h1>
 <ul>
+<li><em>Feb 2026</em>:  Presented "Watermarking Protocol Inspired Kidney Stone Segmentation in IoMT" at ACM ARCS 2026, IIT Hyderabad.</li>	
 <li><em>Feb 2026</em>:  Received ACM India Travel Grant (INR 6000) for ACM ARCS 2026, IIT Hyderabad</li>	
 <li><em>Sep 2025</em>:  A paper is accepted by Computers and Electrical Engineering</li>
 <li><em>May 2025</em>:  A paper is accepted by IEEE Transactions on Computational Social Systems </li>
