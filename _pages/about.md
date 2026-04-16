@@ -60,7 +60,7 @@ Research Interests:
 <h1 id="-Publications"> Publications</h1>
 <h4 id="Journals:">Journals:</h4>
 <ol id="olstyle">
-  <li id="paperdistance"> <B>Parkala Vishnu Bharadwaj Bayari</B>, Nishtha Tomar, Gaurav Bhatnagar, and Chiranjoy Chattopadhyay.  Watermarking Protocol Inspired Kidney Stone Segmentation in IoMT. <B>IEEE Journal of Biomedical and Health Informatics</I></B>, vol. 30, no. 2, pp. 828-838, 2026. </li>
+  <li id="paperdistance"> <B>Parkala Vishnu Bharadwaj Bayari</B>, Nishtha Tomar, Gaurav Bhatnagar, and Chiranjoy Chattopadhyay.  Watermarking Protocol Inspired Kidney Stone Segmentation in IoMT. <B><I>IEEE Journal of Biomedical and Health Informatics</I></B>, vol. 30, no. 2, pp. 828-838, 2026. </li>
   <li id="paperdistance"> Nishtha Tomar, <B>Parkala Vishnu Bharadwaj Bayari</B>, Gaurav Bhatnagar, and Chiranjoy Chattopadhyay.  SBTD: Secured Brain Tumor Detection in IoMT Enabled Smart Healthcare. <B>IEEE Journal of Biomedical and Health Informatics</I></B>, vol. 30, no. 1, pp. 39-50, 2026. </li>
   <li id="paperdistance"> <B>Parkala Vishnu Bharadwaj Bayari</B>, Gaurav Bhatnagar, and Chiranjoy Chattopadhyay.  SecureNet: A deep learning inspired security framework for healthcare data. <B>Computers and Electrical Engineering</I></B>, 128:110723, 2025. </li>
   <li id="paperdistance"> <B>Parkala Vishnu Bharadwaj Bayari</B>, Yashmita Sangwan, Gaurav Bhatnagar, and Chiranjoy Chattopadhyay.  A Novel Chaotic Map and Its Application to Secure Transmission of Multimodal Images. <B>IEEE Transactions on Computational Social Systems</I></B>, vol. 12, no. 5, pp. 3765-3777, 2025. </li>
