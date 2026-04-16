@@ -31,7 +31,7 @@ Research Interests:
  
 <span class='anchor' id='-lwzl'></span>
 
-<h1 id="-news">🔥 News</h1>
+<h1 id="-news"> News</h1>
 <ul>
 <li><em>Feb 2026</em>:  Received ACM India Travel Grant (INR 6000) for ACM ARCS 2026, IIT Hyderabad</li>	
 <li><em>Sep 2025</em>:  A paper is accepted by Computers and Electrical Engineering</li>
