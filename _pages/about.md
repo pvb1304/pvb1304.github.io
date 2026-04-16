@@ -65,6 +65,4 @@ Research Interests:
 
 <span class='anchor' id='-cv'></span>
 
-<a href="https://drive.google.com/your-cv-link" target="_blank" style="display:none;">
-  CV
-</a>
+<a href="/docs/Vishnu_Final_CV.pdf" target="_blank" style="display:none;"></a>
