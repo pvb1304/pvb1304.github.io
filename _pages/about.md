@@ -63,6 +63,6 @@ Research Interests:
   <li id="paperdistance"> Yuhang Zhou, <B>Zhongyun Hua*</B>, Zhaoquan Gu, Keke Tang, Rushi Lan, Yushu Zhang, Qing Liao, Leo Yu Zhang，"Nasty Adversarial Training: A Probability Sparsity Perspective for Robustness Enhancement",  <B><I>Proc. of The Fourteenth International Conference on Learning Representations</I></B>, accepted, 2026. </li>
 </ol>
 
-<span class='anchor' id='-cv'></span>
-
-<a href="/docs/Vishnu_Final_CV.pdf" target="_blank" style="display:none;"></a>
+<a href="https://drive.google.com/file/d/1koodSEiOIcouwgJBPZRxbVehNJ9O4HqV/view" target="_blank">
+  CV
+</a>
