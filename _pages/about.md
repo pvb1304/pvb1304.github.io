@@ -65,8 +65,6 @@ Research Interests:
 
 <span class='anchor' id='-cv'></span>
 
-<div class="page__title" style="margin-top: 1em;">
-  <a href="https://drive.google.com/your-cv-link" target="_blank" style="color: inherit; text-decoration: none;">
-    CV
-  </a>
-</div>
+<a href="https://drive.google.com/your-cv-link" target="_blank" style="display:none;">
+  CV
+</a>
