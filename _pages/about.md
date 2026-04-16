@@ -17,7 +17,6 @@ redirect_from:
 {% assign url_hindex = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio_hindex.json" %}
 
 <span class='anchor' id='about-me'></span>
-\textbf{Parkala Vishnu Bharadwaj Bayari}, Apoorva Lakshman, Gaurav Bhatnagar and Chiranjoy Chattopadhyay. . \textbf{I}, vol. 29, no. 2, pp. 34-44, 2022. 
 
 
 
