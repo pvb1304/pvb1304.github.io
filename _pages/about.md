@@ -65,6 +65,8 @@ Research Interests:
 
 <span class='anchor' id='-cv'></span>
 
-<h1 id="-cv">
-  <a href="/docs/Vishnu_Final_CV.pdf" target="_blank">CV</a>
-</h1>
+<div class="page__title" style="margin-top: 1em;">
+  <a href="https://drive.google.com/your-cv-link" target="_blank" style="color: inherit; text-decoration: none;">
+    CV
+  </a>
+</div>
