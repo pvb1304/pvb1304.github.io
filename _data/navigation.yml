@@ -6,5 +6,8 @@ main:
   - title: "Education"
     url: "/#-xl"
 
+  - title: "News"
+    url: "/#-nws"
+
   - title: "Publications"
     url: "/#-pubs"
