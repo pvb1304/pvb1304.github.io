@@ -71,4 +71,5 @@ Research Interests:
   <li id="paperdistance"> Harimohan Sharma, <B>Parkala Vishnu Bharadwaj Bayari</B>, and Gaurav Bhatnagar. A
 Chaotic Image Encryption Algorithm for Industrial IoT Environments. (Under Preparation) </li>
   <li id="paperdistance"> Yashmita Sangwan, <B>Parkala Vishnu Bharadwaj Bayari</B>, and Gaurav Bhatnagar.  A Modified Logistic Map Inspired Image Encryption Scheme. <B>2023 IEEE 6th International Conference on Multimedia Information Processing and Retrieval (MIPR)</I></B>, Singapore, 2023, pp. 1-6. </li>
+  <li id="paperdistance"> Apoorva Lakshman, <B>Parkala Vishnu Bharadwaj Bayari</B>, and Gaurav Bhatnagar.  A Novel Logo-Inspired Chaotic Random Number Generator. <B>Proceedings of the Academia-Industry Consortium for Data Science</I></B>, Springer Nature Singapore, pp. 297–306, 2022. </li>
 </ol>
