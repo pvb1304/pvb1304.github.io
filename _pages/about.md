@@ -64,8 +64,8 @@ Research Interests:
 
 <h1 id="-Education">🎓 Education</h1>
 <ul>
-  <li><em>2019.07 - Present</em>, <a href="https://www.iitj.ac.in/"><img class="svg" src="/images/IITJ_Logo.jpg" width="23pt" /></a> M.Tech. - Ph.D. in Data and Computational Sciences, Indian Institute of Technology Jodhpur</li>
-  <li><em>2014.08 - 2018.05</em>, <a href="https://www.iiitdm.ac.in/"><img class="svg" src="/images/IIITDM_Logo.png" width="23pt" /></a> B.Tech. in Computer Engineering, Indian Institute of Information Technology, Design and Manufacturing, Kancheepuram</li>
+  <li><em>Jul 2019 - Present</em>, <a href="https://www.iitj.ac.in/"><img class="svg" src="/images/IITJ_Logo.jpg" width="23pt" /></a> M.Tech. - Ph.D. in Data and Computational Sciences, Indian Institute of Technology Jodhpur</li>
+  <li><em>Aug 2014 - May 2018</em>, <a href="https://www.iiitdm.ac.in/"><img class="svg" src="/images/IIITDM_Logo.png" width="23pt" /></a> B.Tech. in Computer Engineering, Indian Institute of Information Technology, Design and Manufacturing, Kancheepuram</li>
 </ul>
 
 
