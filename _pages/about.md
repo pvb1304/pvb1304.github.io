@@ -66,5 +66,5 @@ Research Interests:
 <span class='anchor' id='-cv'></span>
 
 <h1 id="-cv">
-  <a href="/files/CV.pdf" target="_blank">CV</a>
+  <a href="/docs/Vishnu_Final_CV.pdf" target="_blank">CV</a>
 </h1>
