@@ -56,8 +56,8 @@ Research Interests:
 <li><em>Jul 2019</em>:  Joined Indian Institute of Technology Jodhpur as a doctoral researcher.</li>
 </ul>
 
-<span class='anchor' id='-pub'></span>
-<h1 id="-Publications">📝 Publications</h1>
+<span class='anchor' id='-pubs'></span>
+<h1 id="-Publications"> Publications</h1>
 
 <ol id="olstyle">
   <li id="paperdistance"> Yuhang Zhou, <B>Zhongyun Hua*</B>, Zhaoquan Gu, Keke Tang, Rushi Lan, Yushu Zhang, Qing Liao, Leo Yu Zhang，"Nasty Adversarial Training: A Probability Sparsity Perspective for Robustness Enhancement",  <B><I>Proc. of The Fourteenth International Conference on Learning Representations</I></B>, accepted, 2026. </li>
