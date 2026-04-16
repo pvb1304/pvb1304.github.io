@@ -61,15 +61,19 @@ Research Interests:
 <h4 id="Journals:">Journals:</h4>
 <ol id="olstyle">
   <li id="paperdistance"> <B>Parkala Vishnu Bharadwaj Bayari</B>, Nishtha Tomar, Gaurav Bhatnagar, and Chiranjoy Chattopadhyay.  Watermarking Protocol Inspired Kidney Stone Segmentation in IoMT. <B><I>IEEE Journal of Biomedical and Health Informatics</I></B>, vol. 30, no. 2, pp. 828-838, 2026. </li>
-  <li id="paperdistance"> Nishtha Tomar, <B>Parkala Vishnu Bharadwaj Bayari</B>, Gaurav Bhatnagar, and Chiranjoy Chattopadhyay.  SBTD: Secured Brain Tumor Detection in IoMT Enabled Smart Healthcare. <B>IEEE Journal of Biomedical and Health Informatics</I></B>, vol. 30, no. 1, pp. 39-50, 2026. </li>
-  <li id="paperdistance"> <B>Parkala Vishnu Bharadwaj Bayari</B>, Gaurav Bhatnagar, and Chiranjoy Chattopadhyay.  SecureNet: A deep learning inspired security framework for healthcare data. <B>Computers and Electrical Engineering</I></B>, 128:110723, 2025. </li>
-  <li id="paperdistance"> <B>Parkala Vishnu Bharadwaj Bayari</B>, Yashmita Sangwan, Gaurav Bhatnagar, and Chiranjoy Chattopadhyay.  A Novel Chaotic Map and Its Application to Secure Transmission of Multimodal Images. <B>IEEE Transactions on Computational Social Systems</I></B>, vol. 12, no. 5, pp. 3765-3777, 2025. </li>
-  <li id="paperdistance"> <B>Parkala Vishnu Bharadwaj Bayari</B>, Apoorva Lakshman, Gaurav Bhatnagar, and Chiranjoy Chattopadhyay.  A Novel Security Framework for Medical Data in IoT Ecosystems. <B>IEEE MultiMedia</I></B>, vol. 29, no. 2, pp. 34-44, 2022. </li>
+  <li id="paperdistance"> Nishtha Tomar, <B>Parkala Vishnu Bharadwaj Bayari</B>, Gaurav Bhatnagar, and Chiranjoy Chattopadhyay.  SBTD: Secured Brain Tumor Detection in IoMT Enabled Smart Healthcare. <B><I>IEEE Journal of Biomedical and Health Informatics</I></B>, vol. 30, no. 1, pp. 39-50, 2026. </li>
+  <li id="paperdistance"> <B>Parkala Vishnu Bharadwaj Bayari</B>, Gaurav Bhatnagar, and Chiranjoy Chattopadhyay.  SecureNet: A deep learning inspired security framework for healthcare data. <B><I>Computers and Electrical Engineering</I></B>, 128:110723, 2025. </li>
+  <li id="paperdistance"> <B>Parkala Vishnu Bharadwaj Bayari</B>, Yashmita Sangwan, Gaurav Bhatnagar, and Chiranjoy Chattopadhyay.  A Novel Chaotic Map and Its Application to Secure Transmission of Multimodal Images. <B><I>IEEE Transactions on Computational Social Systems</I></B>, vol. 12, no. 5, pp. 3765-3777, 2025. </li>
+  <li id="paperdistance"> <B>Parkala Vishnu Bharadwaj Bayari</B>, Apoorva Lakshman, Gaurav Bhatnagar, and Chiranjoy Chattopadhyay.  A Novel Security Framework for Medical Data in IoT Ecosystems. <B><I>IEEE MultiMedia</I></B>, vol. 29, no. 2, pp. 34-44, 2022. </li>
 </ol>
 <h4 id="Conferences:">Conferences:</h4>
 <ol id="olstyle">
   <li id="paperdistance"> Harimohan Sharma, <B>Parkala Vishnu Bharadwaj Bayari</B>, and Gaurav Bhatnagar. A
 Chaotic Image Encryption Algorithm for Industrial IoT Environments. (Under Preparation) </li>
-  <li id="paperdistance"> Yashmita Sangwan, <B>Parkala Vishnu Bharadwaj Bayari</B>, and Gaurav Bhatnagar.  A Modified Logistic Map Inspired Image Encryption Scheme. <B>2023 IEEE 6th International Conference on Multimedia Information Processing and Retrieval (MIPR)</I></B>, Singapore, 2023, pp. 1-6. </li>
-  <li id="paperdistance"> Apoorva Lakshman, <B>Parkala Vishnu Bharadwaj Bayari</B>, and Gaurav Bhatnagar.  A Novel Logo-Inspired Chaotic Random Number Generator. <B>Proceedings of the Academia-Industry Consortium for Data Science</I></B>, Springer Nature Singapore, pp. 297–306, 2022. </li>
+  <li id="paperdistance"> Yashmita Sangwan, <B>Parkala Vishnu Bharadwaj Bayari</B>, and Gaurav Bhatnagar.  A Modified Logistic Map Inspired Image Encryption Scheme. <B><I>2023 IEEE 6th International Conference on Multimedia Information Processing and Retrieval (MIPR)</I></B>, Singapore, 2023, pp. 1-6. </li>
+  <li id="paperdistance"> Apoorva Lakshman, <B>Parkala Vishnu Bharadwaj Bayari</B>, and Gaurav Bhatnagar.  A Novel Logo-Inspired Chaotic Random Number Generator. <B><I>Proceedings of the Academia-Industry Consortium for Data Science</I></B>, Springer Nature Singapore, pp. 297–306, 2022. </li>
+</ol>
+<h4 id="Book Chapters:">Book Chapters:</h4>
+<ol id="olstyle">
+  <li id="paperdistance"> <B>Parkala Vishnu Bharadwaj Bayari</B> Gaurav Bhatnagar, and Chiranjoy Chattopadhyay. A comprehensive study on the security of medical information using encryption. <B><I>2023 Medical Information Processing and Security: Techniques and applications</I></B>, IET, pp. 229-260, 2022.  </li>
 </ol>
