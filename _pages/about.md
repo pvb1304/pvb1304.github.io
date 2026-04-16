@@ -37,7 +37,7 @@ Research Interests:
 </ul>
 
  
-<span class='anchor' id='-lwzl'></span>
+<span class='anchor' id='-nws'></span>
 
 <h1 id="-news"> News</h1>
 <ul>
@@ -56,7 +56,7 @@ Research Interests:
 <li><em>Jul 2019</em>:  Joined Indian Institute of Technology Jodhpur as a doctoral researcher.</li>
 </ul>
 
-
+<span class='anchor' id='-pub'></span>
 <h1 id="-Publications">📝 Publications</h1>
 
 <ol id="olstyle">
