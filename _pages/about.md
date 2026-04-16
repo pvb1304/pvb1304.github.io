@@ -48,22 +48,6 @@ Research Interests:
 <li><em>Jul 2019</em>:  Joined Indian Institute of Technology Jodhpur as a doctoral researcher.</li>
 </ul>
 
-<span class='anchor' id='-ase'></span>
-
-<h1 id="-Academic Service Experience">📎 Academic Service Experience</h1>
-<ul>
-  <li><em>2025 - Now</em>, Associate Editor, IEEE Transactions on Dependable and Secure Computing</li>
-  <li><em>2024 - Now</em>, Associate Editor, IEEE Signal Processing Letters</li>
-  <li><em>2022 - Now</em>, Associate Editor, International Journal of Bifurcation and Chaos</li>
-  <li><em>2020 - Now</em>, Editorial Board, China Computer Science Review (A Chinese Journal)</li>
-  <li><em>2021</em>, Special Issue Editor, "Cyber Security and AI" in Sensors</li>
-  <li><em>2022</em>, Special Issue Editor, "Mathematical Methods for Computer Science" in Mathematics (JCR Q1)</li>
-  <li><em>2020/10/30 - 11/01</em>, 2020 International Conference on Security and Privacy in Digital Economy, Section Chair</li>
-  <li><em>2020/10/30 - 11/01</em>, 2018 IEEE International Conference on SMC, Special Section Chair</li>
-  <li><em>2023 - Now</em>, IEEE Senior Member</li>
-</ul>
-
-
 <span class='anchor' id='-xl'></span>
 
 <h1 id="-Education">🎓 Education</h1>
