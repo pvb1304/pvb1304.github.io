@@ -39,8 +39,9 @@ Research Interests:
 <li><em>May 2025</em>:  A paper is accepted by IEEE Transactions on Computational Social Systems </li>
 <li><em>Apr 2025</em>:  A paper is accepted by IEEE Journal of Biomedical and Health Informatics </li>
 <li><em>Oct 2024</em>:  A paper is accepted by IEEE Journal of Biomedical and Health Informatics </li>
-<li><em>Jun 2023</em>:  Visited Prof. Pushpak Bhattacharyya (CFILT Lab, IIT Bombay) as part of Anveshan Setu Fellowship </li>	
+<li><em>Jun 2023</em>:  Visited Prof. Pushpak Bhattacharyya (CFILT, IIT Bombay) under the Anveshan Setu Fellowship </li>	
 <li><em>Apr 2023</em>:  Selected for AI @ Walmart (in-person), Walmart Global Tech, Bengaluru  </li>
+<li><em>Apr 2023</em>:  Delivered a talk on ‘Fun With Cryptography’ at Hour of Code organized by ACM Student Chapter, IIT Jodhpur for Kendriya Vidyalaya students  </li>
 <li><em>Mar 2022</em>:  A paper is accepted by IEEE Multimedia </li>
 <li><em>Mar 2021</em>:  ACM India Anveshan Setu Fellowship Recipient </li>
 <li><em>Dec 2019</em>:  Joined the 'Multimodal Analytics and Security Lab' (Dr. Gaurav Bhatnagar); co-advised by Dr. Gaurav Bhatnagar and Dr. Chiranjoy Chattopadhyay.</li>
