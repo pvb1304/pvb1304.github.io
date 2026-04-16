@@ -57,46 +57,8 @@ Research Interests:
 </ul>
 
 
-<span class='anchor' id='-xshy'></span>
-
-<h1 id="-Research Experience">💻 Research Experience</h1>
-<ul>
- <li><em>2024.01 - Now</em>, Professor, School of Computer Science and Technology, Harbin Institute of Technology, Shenzhen</li>
-  <li><em>2018.03 - 2023.12</em>, Associate Professor, School of Computer Science and Technology, Harbin Institute of Technology, Shenzhen</li>
-  <li><em>2016.11 - 2018.03</em>, Assistant Professor, School of Computer Science and Technology, Harbin Institute of Technology Shenzhen Graduate School</li>
-  <li><em>2010.10 - 2011.04</em>, Research Intern, New Tech Department, Hewlett Packard</li>
-</ul>
-
 <h1 id="-Publications">📝 Publications</h1>
 
 <ol id="olstyle">
   <li id="paperdistance"> Yuhang Zhou, <B>Zhongyun Hua*</B>, Zhaoquan Gu, Keke Tang, Rushi Lan, Yushu Zhang, Qing Liao, Leo Yu Zhang，"Nasty Adversarial Training: A Probability Sparsity Perspective for Robustness Enhancement",  <B><I>Proc. of The Fourteenth International Conference on Learning Representations</I></B>, accepted, 2026. </li>
 </ol>
-
-
-				
-<span class='anchor' id='-pr'></span>
-
-<h1 id="-Peer Review">➿ Peer Review</h1>
-<li>Reviewer, IEEE Transactions on Information Forensics and Security </li>
-<li>Reviewer, IEEE Transactions on Pattern Analysis and Machine Intelligence</li>
-<li>Reviewer, IEEE Transactions on Dependable and Secure Computing </li>
-<li>Reviewer, IEEE Transactions on Image Processing</li>
-<li>Reviewer, IEEE Transactions on Signal Processing</li>
-<li>Reviewer, IEEE Transactions on Knowledge and Data Engineering</li>
-<li>Reviewer, IEEE Transactions on Cybernetics</li>
-<li>Reviewer, IEEE Transactions on Systems, Man and Cybernetics: Systems</li>
-<li>Reviewer, IEEE Transactions on Circuits and Systems for Video Technology</li>
-<li>Reviewer, IEEE Transactions on Industrial Informatics</li>
-<li>Reviewer, IEEE Transactions on Industrial Electronics</li>
-<li>Reviewer, IEEE Transactions on Circuits and Systems II: Express Briefs</li>
-<li>Reviewer, IEEE Transactions on Circuits and Systems I: Regular Papers</li>
-<li>Reviewer, ACM Transactions on Multimedia Computing, Communications, and Applications, etc</li>
-
-<h1>Program Committee Member</h1>
-<li>The 37th AAAI Conference on Artificial Intelligence (AAAI 2024)</li>
-<li>2024 IEEE International Conference on Multimedia and Expo (ICME 2024)</li>
-<li>2023 IEEE International Conference on Multimedia and Expo (ICME 2023)</li>
-<li>2022 IEEE International Conference on Multimedia and Expo (ICME 2022)</li>
-<li>The 31th International Conference on Neural Information Processing (ICONIP 2024)</li>
-<li>The 20th International Conference on Mobility, Sensing and Networking (MSN 2024) </li>
