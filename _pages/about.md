@@ -60,5 +60,5 @@ Research Interests:
 <h1 id="-Publications"> Publications</h1>
 
 <ol id="olstyle">
-  <li id="paperdistance"> Yuhang Zhou, <B>Parkala Vishnu Bharadwaj Bayari*</B>, Nishtha Tomar, Gaurav Bhatnagar, and Chiranjoy Chattopadhyay.  Watermarking Protocol Inspired Kidney Stone Segmentation in IoMT. <B>IEEE Journal of Biomedical and Health Informatics</I></B>, vol. 30, no. 2, pp. 828-838, 2026. </li>
+  <li id="paperdistance"> <B>Parkala Vishnu Bharadwaj Bayari*</B>, Nishtha Tomar, Gaurav Bhatnagar, and Chiranjoy Chattopadhyay.  Watermarking Protocol Inspired Kidney Stone Segmentation in IoMT. <B>IEEE Journal of Biomedical and Health Informatics</I></B>, vol. 30, no. 2, pp. 828-838, 2026. </li>
 </ol>
