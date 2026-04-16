@@ -33,15 +33,15 @@ Research Interests:
 
 <h1 id="-news">🔥 News</h1>
 <ul>
-<li><em>2024.10</em>:  Received ACM India Travel Grant (INR 6000) for ACM ARCS 2026, IIT Hyderabad</li>	
-<li><em>2024.10</em>:  A paper is accepted by Computers and Electrical Engineering</li>
-<li><em>2025.05</em>:  A paper is accepted by IEEE Transactions on Computational Social Systems </li>
-<li><em>2025.04</em>:  A paper is accepted by IEEE Journal of Biomedical and Health Informatics </li>
-<li><em>2024.10</em>:  A paper is accepted by IEEE Journal of Biomedical and Health Informatics </li>
-<li><em>2022.03</em>:  A paper is accepted by IEEE Multimedia </li>
-<li><em>2021.03</em>:  ACM India Anveshan Setu Fellowship Recipient </li>
-<li><em>2019.07</em>:  Joined the 'Multimodal Analytics and Security Lab' (Dr. Gaurav Bhatnagar); co-advised by Dr. Gaurav Bhatnagar and Dr. Chiranjoy Chattopadhyay.</li>
-<li><em>2019.07</em>:  Joined Indian Institute of Technology Jodhpur as a doctoral researcher.</li>
+<li><em>Feb 2026</em>:  Received ACM India Travel Grant (INR 6000) for ACM ARCS 2026, IIT Hyderabad</li>	
+<li><em>Sep 2025</em>:  A paper is accepted by Computers and Electrical Engineering</li>
+<li><em>May 2025</em>:  A paper is accepted by IEEE Transactions on Computational Social Systems </li>
+<li><em>Apr 2025</em>:  A paper is accepted by IEEE Journal of Biomedical and Health Informatics </li>
+<li><em>Oct 2024</em>:  A paper is accepted by IEEE Journal of Biomedical and Health Informatics </li>
+<li><em>Mar 2022</em>:  A paper is accepted by IEEE Multimedia </li>
+<li><em>Mar 2021</em>:  ACM India Anveshan Setu Fellowship Recipient </li>
+<li><em>Dec 2019</em>:  Joined the 'Multimodal Analytics and Security Lab' (Dr. Gaurav Bhatnagar); co-advised by Dr. Gaurav Bhatnagar and Dr. Chiranjoy Chattopadhyay.</li>
+<li><em>Jul 2019</em>:  Joined Indian Institute of Technology Jodhpur as a doctoral researcher.</li>
 </ul>
 
 <span class='anchor' id='-ase'></span>
