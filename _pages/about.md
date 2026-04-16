@@ -60,5 +60,5 @@ Research Interests:
 <h1 id="-Publications"> Publications</h1>
 
 <ol id="olstyle">
-  <li id="paperdistance"> Yuhang Zhou, <B>Zhongyun Hua*</B>, Zhaoquan Gu, Keke Tang, Rushi Lan, Yushu Zhang, Qing Liao, Leo Yu Zhang，"Nasty Adversarial Training: A Probability Sparsity Perspective for Robustness Enhancement",  <B><I>Proc. of The Fourteenth International Conference on Learning Representations</I></B>, accepted, 2026. </li>
+  <li id="paperdistance"> Yuhang Zhou, <B>Parkala Vishnu Bharadwaj Bayari*</B>, Nishtha Tomar, Gaurav Bhatnagar, and Chiranjoy Chattopadhyay.  Watermarking Protocol Inspired Kidney Stone Segmentation in IoMT. <B>IEEE Journal of Biomedical and Health Informatics</I></B>, vol. 30, no. 2, pp. 828-838, 2026. </li>
 </ol>
