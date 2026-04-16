@@ -17,7 +17,7 @@ redirect_from:
 {% assign url_hindex = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio_hindex.json" %}
 
 <span class='anchor' id='about-me'></span>
-
+\textbf{Parkala Vishnu Bharadwaj Bayari}, Apoorva Lakshman, Gaurav Bhatnagar and Chiranjoy Chattopadhyay. . \textbf{I}, vol. 29, no. 2, pp. 34-44, 2022. 
 
 
 
@@ -65,4 +65,7 @@ Research Interests:
   <li id="paperdistance"> <B>Parkala Vishnu Bharadwaj Bayari*</B>, Gaurav Bhatnagar, and Chiranjoy Chattopadhyay.  SecureNet: A deep learning inspired security framework for healthcare data. <B>Computers and Electrical Engineering</I></B>, 128:110723, 2025. </li>
   <li id="paperdistance"> <B>Parkala Vishnu Bharadwaj Bayari*</B>, Yashmita Sangwan, Gaurav Bhatnagar, and Chiranjoy Chattopadhyay.  A Novel Chaotic Map and Its Application to Secure Transmission of Multimodal Images. <B>IEEE Transactions on Computational Social Systems</I></B>, vol. 12, no. 5, pp. 3765-3777, 2025. </li>
   <li id="paperdistance"> <B>Parkala Vishnu Bharadwaj Bayari*</B>, Apoorva Lakshman, Gaurav Bhatnagar, and Chiranjoy Chattopadhyay.  A Novel Security Framework for Medical Data in IoT Ecosystems. <B>IEEE MultiMedia</I></B>, vol. 29, no. 2, pp. 34-44, 2022. </li>
+<h4 id="Conferences:">Conferences:</h4>
+  <li id="paperdistance"> Harimohan Sharma, <B>Parkala Vishnu Bharadwaj Bayari*</B>, and Gaurav Bhatnagar. A
+Chaotic Image Encryption Algorithm for Industrial IoT Environments. (Under Preparation) </li>
 </ol>
