@@ -40,7 +40,7 @@ Research Interests:
 
 <h1 id="-news"> News</h1>
 <ul>
-<li><em>Feb 2026</em>:  Presented "Watermarking Protocol Inspired Kidney Stone Segmentation in IoMT" at ACM ARCS 2026, IIT Hyderabad </li>	
+<li><em>Feb 2026</em>:  Presented our work titled "Watermarking Protocol Inspired Kidney Stone Segmentation in IoMT" at ACM ARCS 2026, IIT Hyderabad </li>	
 <li><em>Feb 2026</em>:  Received ACM India Travel Grant (INR 6000) for ACM ARCS 2026, IIT Hyderabad </li>	
 <li><em>Sep 2025</em>:  A paper is accepted by Computers and Electrical Engineering </li>
 <li><em>May 2025</em>:  A paper is accepted by IEEE Transactions on Computational Social Systems </li>
@@ -74,5 +74,5 @@ Chaotic Image Encryption Algorithm for Industrial IoT Environments. (Under Prepa
 </ol>
 <h4 id="Book Chapters:">Book Chapters:</h4>
 <ol id="olstyle">
-  <li id="paperdistance"> <B>Parkala Vishnu Bharadwaj Bayari</B> Gaurav Bhatnagar, and Chiranjoy Chattopadhyay. A comprehensive study on the security of medical information using encryption. <B><I>2023 Medical Information Processing and Security: Techniques and applications</I></B>, IET, pp. 229-260, 2022.  </li>
+  <li id="paperdistance"> <B>Parkala Vishnu Bharadwaj Bayari</B> Gaurav Bhatnagar, and Chiranjoy Chattopadhyay. A comprehensive study on the security of medical information using encryption. <B><I>Medical Information Processing and Security: Techniques and applications</I></B>, IET, pp. 229-260, 2022.  </li>
 </ol>
