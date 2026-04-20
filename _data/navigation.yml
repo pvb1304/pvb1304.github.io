@@ -3,6 +3,9 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
+  - title: "Professional Experience"
+    url: "/#-pexp"
+
   - title: "Education"
     url: "/#-xl"
 
