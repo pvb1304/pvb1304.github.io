@@ -107,3 +107,22 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+body {
+  background: linear-gradient(180deg, #f8f8f9 0%, #f3f3f4 100%);
+}
+
+/* remove hard white blocks */
+.page,
+.initial-content,
+.archive {
+  background: transparent;
+}
+
+/* optional: soften content cards */
+.page__content {
+  background: #ffffff;
+  border-radius: 12px;
+  padding: 1.5em;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+}
