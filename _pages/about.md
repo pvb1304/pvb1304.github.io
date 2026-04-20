@@ -74,5 +74,5 @@ Chaotic Image Encryption Algorithm for Industrial IoT Environments. (Under Prepa
 </ol>
 <h4 id="Book Chapters:">Book Chapters:</h4>
 <ol id="olstyle">
-  <li id="paperdistance"> <B>Parkala Vishnu Bharadwaj Bayari</B> Gaurav Bhatnagar, and Chiranjoy Chattopadhyay. A comprehensive study on the security of medical information using encryption. <B><I>Medical Information Processing and Security: Techniques and applications</I></B>, IET, pp. 229-260, 2022.  </li>
+  <li id="paperdistance"> <B>Parkala Vishnu Bharadwaj Bayari</B>, Gaurav Bhatnagar, and Chiranjoy Chattopadhyay. A comprehensive study on the security of medical information using encryption. <B><I>Medical Information Processing and Security: Techniques and applications</I></B>, IET, pp. 229-260, 2022.  </li>
 </ol>
