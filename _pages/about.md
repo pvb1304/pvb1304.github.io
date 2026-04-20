@@ -27,9 +27,17 @@ Research Interests:
 - Medical Informatics
 
 
+<span class='anchor' id='-pexp'></span>
+
+<h1 id="-Professional Experience">Professional Experience</h1>
+<ul>
+ <li><em> Apr 2026 - till date</em>, Guest Faculty, Department of Computer Science and Engineering, Indian Institute of Information Technology Bhagalpur</li>
+</ul>
+
+
 <span class='anchor' id='-xl'></span>
 
-<h1 id="-Education">🎓 Education</h1>
+<h1 id="-Education">Education</h1>
 <ul>
   <li><em>Jul 2019 - till date</em>, <a href="https://www.iitj.ac.in/"><img class="svg" src="/images/IITJ_Logo.jpg" width="23pt" /></a> M.Tech. - Ph.D. in Data and Computational Sciences, Indian Institute of Technology Jodhpur</li>
   <li><em>Aug 2014 - May 2018</em>, <a href="https://www.iiitdm.ac.in/"><img class="svg" src="/images/IIITDM_Logo.png" width="23pt" /></a> B.Tech. in Computer Engineering, Indian Institute of Information Technology, Design and Manufacturing, Kancheepuram</li>
