@@ -17,7 +17,7 @@ redirect_from:
 {% assign url_hindex = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio_hindex.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am currently serving as a Guest Faculty in the Department of Computer Science and Engineering at the Indian Institute of Information Technology Bhagalpur. I am a doctoral researcher at IIT Jodhpur, enrolled in the M.Tech. - Ph.D. dual degree program in Data and Computational Sciences, co-advised by Dr. Gaurav Bhatnagar and Dr. Chiranjoy Chattopadhyay, with my thesis submitted in January 2026. Previously, I earned my bachelor’s degree in Computer Engineering from IIITDM Kancheepuram in 2018. My research interests are broadly centered around Multimedia Security, Multimedia Forensics, and AI Security, with a focus on digital rights management and intellectual property protection of digital media and associated AI models.
+I am currently serving as a Guest Faculty in the Department of Computer Science and Engineering at the Indian Institute of Information Technology Bhagalpur. I am a doctoral researcher at IIT Jodhpur, enrolled in the M.Tech. - Ph.D. dual degree program in Data and Computational Sciences, co-advised by Dr. Gaurav Bhatnagar and Dr. Chiranjoy Chattopadhyay, with my thesis submitted in January 2026. Previously, I earned my bachelor’s degree in Computer Engineering from IIITDM Kancheepuram in 2018. My research interests lie in Multimedia Security, Multimedia Forensics, and AI Security, with an emphasis on digital rights management and intellectual property protection for digital media and associated AI models.
 
 Research Interests:
 - Multimedia Security
