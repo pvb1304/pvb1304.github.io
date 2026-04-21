@@ -31,7 +31,7 @@ Research Interests:
 
 <h1 id="-Professional Experience">Professional Experience</h1>
 <ul>
- <li><em> Apr 2026 - till date</em>, Guest Faculty, Department of Computer Science and Engineering, Indian Institute of Information Technology Bhagalpur</li>
+ <li><em> Apr 2026 - till date</em>,<a href="https://www.iiitbh.ac.in/"><img class="svg" src="/images/IIITBH_Logo.png" width="23pt" /></a> Guest Faculty, Department of Computer Science and Engineering, Indian Institute of Information Technology Bhagalpur</li>
 </ul>
 
 
