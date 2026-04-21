@@ -17,7 +17,7 @@ redirect_from:
 {% assign url_hindex = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio_hindex.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am currently serving as a Guest Faculty in the Department of Computer Science and Engineering at the Indian Institute of Information Technology Bhagalpur. I am a doctoral researcher at IIT Jodhpur, where I am enrolled in a M.Tech. -– Ph.D. (Data and Computational Sciences) dual degree program, co-advised by Dr. Gaurav Bhatnagar and Dr. Chiranjoy Chattopadhyay, with my thesis submitted in January 2026. Previously, I earned my bachelor’s degree in Computer Engineering from IIITDM Kancheepuram in 2018. 
+I am currently serving as a Guest Faculty in the Department of Computer Science and Engineering at the Indian Institute of Information Technology Bhagalpur. I am a doctoral researcher at IIT Jodhpur, where I am enrolled in a M.Tech. – Ph.D. (Data and Computational Sciences) dual degree program, co-advised by Dr. Gaurav Bhatnagar and Dr. Chiranjoy Chattopadhyay, with my thesis submitted in January 2026. Previously, I earned my bachelor’s degree in Computer Engineering from IIITDM Kancheepuram in 2018. 
 
 Research Interests:
 - Multimedia Security
@@ -39,7 +39,7 @@ Research Interests:
 
 <h1 id="-Education">Education</h1>
 <ul>
-  <li><em>Jul 2019 - till date</em>, <a href="https://www.iitj.ac.in/"><img class="svg" src="/images/IITJ_Logo.jpg" width="23pt" /></a> M.Tech. -- Ph.D. in Data and Computational Sciences, IIT Jodhpur</li>
+  <li><em>Jul 2019 - till date</em>, <a href="https://www.iitj.ac.in/"><img class="svg" src="/images/IITJ_Logo.jpg" width="23pt" /></a> M.Tech. - Ph.D. in Data and Computational Sciences, IIT Jodhpur</li>
   <li><em>Aug 2014 - May 2018</em>, <a href="https://www.iiitdm.ac.in/"><img class="svg" src="/images/IIITDM_Logo.png" width="23pt" /></a> B.Tech. in Computer Engineering, IIITDM Kancheepuram</li>
 </ul>
 
