@@ -23,6 +23,7 @@ Research Interests:
 - Multimedia Security
 - Multimedia Forensics
 - AI Security
+- Image and Video Processing
 - Medical Informatics
 
 
