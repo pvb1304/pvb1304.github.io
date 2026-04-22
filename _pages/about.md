@@ -17,7 +17,7 @@ redirect_from:
 {% assign url_hindex = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio_hindex.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am currently serving as a Guest Faculty in the Department of Computer Science and Engineering at the Indian Institute of Information Technology Bhagalpur. I am a doctoral researcher at IIT Jodhpur, enrolled in the M.Tech. - Ph.D. dual degree program in Data and Computational Sciences, co-advised by Dr. Gaurav Bhatnagar and Dr. Chiranjoy Chattopadhyay, with my thesis submitted in January 2026. Previously, I earned my bachelor’s degree in Computer Engineering from IIITDM Kancheepuram in 2018. My research interests lie in Multimedia Security, Multimedia Forensics, and AI Security, with an emphasis on digital rights management and intellectual property protection for digital media and associated AI models.
+I am currently serving as a Guest Faculty in the Department of Computer Science and Engineering at the Indian Institute of Information Technology Bhagalpur. I am a doctoral researcher at IIT Jodhpur, enrolled in the M.Tech. - Ph.D. dual degree program in Data and Computational Sciences, co-advised by Dr. Gaurav Bhatnagar and Dr. Chiranjoy Chattopadhyay, with my thesis submitted in January 2026. Previously, I earned my bachelor’s degree in Computer Engineering from IIITDM Kancheepuram in 2018. My research interests lie in multimedia security, multimedia forensics, and AI security, with an emphasis on safeguarding digital assets spanning media and associated AI models.
 
 Research Interests:
 - Multimedia Security
@@ -48,7 +48,7 @@ Research Interests:
 
 <h1 id="-news"> News</h1>
 <ul>
-<li><em>Apr 2026</em>:  Joined Indian Institute of Information Technology Bhagalpur as a guest faculty.</li>
+<li><em>Apr 2026</em>:  Joined CSE, IIIT Bhagalpur as Guest Faculty </li>
 <li><em>Feb 2026</em>:  Presented our work titled "Watermarking Protocol Inspired Kidney Stone Segmentation in IoMT" at ACM ARCS 2026, IIT Hyderabad </li>	
 <li><em>Feb 2026</em>:  Received ACM India Travel Grant (INR 6000) for ACM ARCS 2026, IIT Hyderabad </li>	
 <li><em>Sep 2025</em>:  A paper is accepted by Computers and Electrical Engineering </li>
@@ -60,8 +60,8 @@ Research Interests:
 <li><em>Dec 2022</em>:  Delivered a talk on ‘Fun With Cryptography’ at Hour of Code organized by ACM Student Chapter, IIT Jodhpur for Kendriya Vidyalaya students  </li>
 <li><em>Mar 2022</em>:  A paper is accepted by IEEE Multimedia </li>
 <li><em>Mar 2021</em>:  ACM India Anveshan Setu Fellowship Recipient </li>
-<li><em>Dec 2019</em>:  Joined the 'Multimodal Analytics and Security Lab' (Dr. Gaurav Bhatnagar); co-advised by Dr. Gaurav Bhatnagar and Dr. Chiranjoy Chattopadhyay.</li>
-<li><em>Jul 2019</em>:  Joined Indian Institute of Technology Jodhpur as a doctoral researcher.</li>
+<li><em>Dec 2019</em>:  Joined the 'Multimodal Analytics and Security Lab' (Dr. Gaurav Bhatnagar); co-advised by Dr. Gaurav Bhatnagar and Dr. Chiranjoy Chattopadhyay </li>
+<li><em>Jul 2019</em>:  Joined IIT Jodhpur as Doctoral Researcher </li>
 </ul>
 
 <span class='anchor' id='-pubs'></span>
