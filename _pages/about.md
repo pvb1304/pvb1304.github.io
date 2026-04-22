@@ -48,6 +48,7 @@ Research Interests:
 
 <h1 id="-news"> News</h1>
 <ul>
+<li><em>Apr 2026</em>:  Joined Indian Institute of Information Technology Bhagalpur as a guest faculty.</li>
 <li><em>Feb 2026</em>:  Presented our work titled "Watermarking Protocol Inspired Kidney Stone Segmentation in IoMT" at ACM ARCS 2026, IIT Hyderabad </li>	
 <li><em>Feb 2026</em>:  Received ACM India Travel Grant (INR 6000) for ACM ARCS 2026, IIT Hyderabad </li>	
 <li><em>Sep 2025</em>:  A paper is accepted by Computers and Electrical Engineering </li>
