@@ -17,7 +17,7 @@ redirect_from:
 {% assign url_hindex = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio_hindex.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am currently serving as a Guest Faculty in the Department of Computer Science and Engineering at the Indian Institute of Information Technology Bhagalpur. I am a doctoral researcher at IIT Jodhpur, enrolled in the M.Tech. - Ph.D. dual degree program in Data and Computational Sciences, co-advised by Dr. Gaurav Bhatnagar and Dr. Chiranjoy Chattopadhyay, with my thesis submitted in January 2026. Previously, I earned my bachelor’s degree in Computer Engineering from IIITDM Kancheepuram in 2018. My research interests lie in multimedia security, multimedia forensics, and AI security, with an emphasis on safeguarding diverse aspects of digital assets spanning media and associated AI models. For correspondence, I can be reached at <B>pvbbayari.cse[at]iiitbh.ac.in</B>; <B>bayari.1[at]iitj.ac.in</B> or <B>pvishnu1304[at]gmail.com</B>.
+I am currently serving as a Guest Faculty in the Department of Computer Science and Engineering at the Indian Institute of Information Technology Bhagalpur. I received my Ph.D. from IIT Jodhpur through the M.Tech. - Ph.D. dual degree program in Data and Computational Sciences, where I was co-advised by Dr. Gaurav Bhatnagar and Dr. Chiranjoy Chattopadhyay. My doctoral research focused on secure and trustworthy medical data management for smart healthcare. Previously, I earned my bachelor’s degree in Computer Engineering from IIITDM Kancheepuram in 2018. My research interests lie in Multimedia Security, Multimedia Forensics, AI Security and Medical Informatics, with an emphasis on safeguarding diverse aspects of digital assets spanning media and associated AI models. For correspondence, I can be reached at <B>pvbbayari.cse[at]iiitbh.ac.in</B>; <B>bayari.1[at]iitj.ac.in</B> or <B>pvishnu1304[at]gmail.com</B>.
 
 Research Interests:
 - Multimedia Security
@@ -39,7 +39,7 @@ Research Interests:
 
 <h1 id="-Education">Education</h1>
 <ul>
-  <li><em>Jul 2019 - till date</em>, <a href="https://www.iitj.ac.in/"><img class="svg" src="/images/IITJ_Logo.jpg" width="23pt" /></a> M.Tech. - Ph.D. in Data and Computational Sciences, IIT Jodhpur</li>
+  <li><em>Jul 2019 - May 2026</em>, <a href="https://www.iitj.ac.in/"><img class="svg" src="/images/IITJ_Logo.jpg" width="23pt" /></a> M.Tech. - Ph.D. in Data and Computational Sciences, IIT Jodhpur</li>
   <li><em>Aug 2014 - May 2018</em>, <a href="https://www.iiitdm.ac.in/"><img class="svg" src="/images/IIITDM_Logo.png" width="23pt" /></a> B.Tech. in Computer Engineering, IIITDM Kancheepuram</li>
 </ul>
 
@@ -48,6 +48,7 @@ Research Interests:
 
 <h1 id="-news"> News</h1>
 <ul>
+<li><em>May 2026</em>:  I have successfully defended my Ph.D. thesis. </li>
 <li><em>Apr 2026</em>:  Joined CSE, IIIT Bhagalpur as Guest Faculty </li>
 <li><em>Feb 2026</em>:  Presented our work titled "Watermarking Protocol Inspired Kidney Stone Segmentation in IoMT" at ACM ARCS 2026, IIT Hyderabad </li>	
 <li><em>Feb 2026</em>:  Received ACM India Travel Grant (INR 6000) for ACM ARCS 2026, IIT Hyderabad </li>	
